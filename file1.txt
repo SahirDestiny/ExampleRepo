@@ -1,4 +1,9 @@
-This is changes by linux user.
-This is testing from EC2-User linux machine from AWS.
-this is edited from windows machine.
 
+
+
+
+
+for (i=0;i<=10;i++)
+{
+printf("This is %d", i);
+}
