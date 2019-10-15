@@ -1,7 +1,1 @@
-This is file 1
-This is edited from GitHub
-This is edited from windows.
-This again edited from GitHub
-This is from ec2-user
-This is added by windows user.
-
+This is changes by linux user.
