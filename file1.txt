@@ -1,5 +1,10 @@
+
 while(i<=100)
 {
 printf("This is %d", i++) ;
 }
 
+for (i=0;i<=10;i++)
+{
+printf("This is %d", i);
+}
